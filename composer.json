@@ -1,5 +1,5 @@
 {
-    "name": "Nainterceptor/Piwik",
+    "name": "nainterceptor/piwik",
     "require": {
         "php": ">=5.3.0"
     },
