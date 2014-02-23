@@ -1,0 +1,8 @@
+<?php
+return array(
+    'trackerURL' => 'http://piwik.tld',
+    'sitesID' => array(
+        'foo.local' => 1,
+        'bar.local' => 2,
+    ),
+);
